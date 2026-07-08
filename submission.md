@@ -1,5 +1,9 @@
 # Mixtape Bug Hunt — Submission
 
+## Commit History
+
+![git log output](screenshots/git-log.png)
+
 ## AI Usage
 
 I used Claude throughout this project, mainly for codebase navigation and for explaining specific Python/SQLAlchemy behavior once I had already narrowed down a suspicious function.
